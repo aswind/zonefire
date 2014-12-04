@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!-- 用户等级和经验值取值范围的对应关系 -->
+	
+	<level rank="1" minExp="0" maxExp="10" />
+	<level rank="2" minExp="11" maxExp="30" />
+	<level rank="3" minExp="31" maxExp="70" />
+	<level rank="4" minExp="71" maxExp="110" />
+	<level rank="5" minExp="111" maxExp="160" />
+	<level rank="6" minExp="160" maxExp="220" />
+	<level rank="7" minExp="221" maxExp="290" />
+	<level rank="8" minExp="291" maxExp="370" />
+	<level rank="9" minExp="371" maxExp="460" />
+	<level rank="10" minExp="461" maxExp="560" />
+</data>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<user userId="0" userName="flashare0" nation="China" sex="Male" age="12" exp="8" avatar="avatar/0.jpg" />
+	<user userId="1" userName="flashare1" nation="China" sex="Male" age="12" exp="21" avatar="avatar/1.jpg" />
+	<user userId="2" userName="flashare2" nation="China" sex="Male" age="12" exp="32" avatar="avatar/2.jpg" />
+	<user userId="3" userName="flashare3" nation="China" sex="Male" age="12" exp="103" avatar="avatar/3.jpg" />
+	<user userId="4" userName="flashare4" nation="China" sex="Male" age="12" exp="144" avatar="avatar/4.jpg" />
+	<user userId="5" userName="flashare5" nation="China" sex="Male" age="12" exp="185" avatar="avatar/5.jpg" />
+	<user userId="6" userName="flashare5" nation="China" sex="Male" age="12" exp="276" avatar="avatar/6.jpg" />
+	<user userId="7" userName="flashare5" nation="China" sex="Male" age="12" exp="347" avatar="avatar/7.jpg" />
+	<user userId="8" userName="flashare5" nation="China" sex="Male" age="12" exp="408" avatar="avatar/8.jpg" />
+	<user userId="9" userName="flashare5" nation="China" sex="Male" age="12" exp="529" avatar="avatar/9.jpg" />
+</data>

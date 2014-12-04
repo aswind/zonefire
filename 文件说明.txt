@@ -1,0 +1,10 @@
+﻿文件说明：
+
+1）zoneFire.swc:
+这是zonefire框架的类库；
+
+2）myzone:
+这是一个演示zonefire框架实际应用的FlashDevelop工程实例，详尽地演示了zonefire几乎所有功能的应用，代码里有详细的注释。用FlashBuild导入也可运行。
+
+3）zones:
+这是一个演示zonefire框架实际应用的Flash IDE工程实例，用Flash CS6开发。尽管比较简单，但是zonefire中的主要功能都用到了。fla文件中有配置说明，代码里有详细的注释。
